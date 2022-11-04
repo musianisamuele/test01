@@ -1,1 +1,3 @@
 Stro provando a fixare un bug
+
+Non so bene come fixarlo ma perso che userò il metodo TRIVIALE :D
